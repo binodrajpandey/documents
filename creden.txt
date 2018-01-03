@@ -1,0 +1,12 @@
+credential for local dev 
+usename: fuseims
+password: fusemachinesims
+Ip: 172.16.12..222
+
+credentaial for cassandra server
+ip : 10.0.2.11
+username: parakhi
+password: p@r@118i
+safari:
+username:info@fusemachines.com
+password:newyork2017
