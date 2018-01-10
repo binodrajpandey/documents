@@ -10,3 +10,6 @@ password: p@r@118i
 safari:
 username:info@fusemachines.com
 password:newyork2017
+udemy:
+rushil@fusemachines.com
+FuseMandu2017
